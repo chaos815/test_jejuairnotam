@@ -1,0 +1,6 @@
+body { font-family: 'Noto Sans KR', sans-serif; background: #fff8f2; }
+.bg-orange-400 { background-color: #FF7800; }
+.text-orange-700 { color: #C54B00; }
+.rounded-2xl { border-radius: 1rem; }
+.shadow-xl { box-shadow: 0 4px 24px rgba(0,0,0,0.08); }
+input, button { font-size: 1rem; }
